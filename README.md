@@ -4,6 +4,5 @@ In this paper, based on the factorization framework, we propose a novel robust m
 If you use our codes, please cite our paper.
 
 Z.-Y. Wang, X. P. Li and H. C. So, ``Robust matrix completion based on factorization and truncated-quadratic loss function,'' IEEE Trans. Circuits Syst. Video Technol., vol. 33, no. 9, pp. 1521-1534, Apr. 2023.
-If you use our codes, please cite our papers.
 
 If you have any questions, please email us. Thanks.
